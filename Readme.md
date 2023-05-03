@@ -4,6 +4,8 @@ Developed using Code igniter
 IKRASPOS
 Application Point Of Sale, use Codeigniter  PHP Framework, CRUD with AJAX, notification with Sweet Alert 2.
 
+
+https://ikras.desire-plus.com/
 List User :
 username : admin@admin.com | password : password | role : admin
 username : sales@sales.com | password : password | role : cashieer
